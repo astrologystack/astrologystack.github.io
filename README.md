@@ -1,2 +1,0 @@
-# astrologygarden.github.io
-Notes

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkastrology_garden=self.webpackChunkastrology_garden||[]).push([["9528"],{19187(e){e.exports=JSON.parse('{"tags":[{"label":"midpoints","permalink":"/docs/tags/midpoints","count":2},{"label":"ebertin","permalink":"/docs/tags/ebertin","count":2},{"label":"witte","permalink":"/docs/tags/witte","count":2}]}')}}]);
